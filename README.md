@@ -2,4 +2,5 @@
 
 Creating page and Integration with Facebook Messenger App
 
-![result1]resultimg1.JPG
+![result1-tag](resultimg1.JPG)
+![result2-tag](resultimage2.JPG)
